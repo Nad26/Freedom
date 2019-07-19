@@ -1,0 +1,3 @@
+21:41:56,368  INFO io.github.bonigarcia.wdm.WebDriverManager<strong>{1}</strong>:546 - Using chromedriver 74.0.3729.6 (since Google Chrome 74 is installed in your machine)
+21:41:56,457  INFO io.github.bonigarcia.wdm.WebDriverManager<strong>{1}</strong>:1035 - Exporting webdriver.chrome.driver as C:\Users\n.hode\.m2\repository\webdriver\chromedriver\win32\74.0.3729.6\chromedriver.exe
+21:41:56,457  INFO io.github.bonigarcia.wdm.WebDriverManager<strong>{1}</strong>:1035 - Exporting webdriver.chrome.driver as C:\Users\n.hode\.m2\repository\webdriver\chromedriver\win32\74.0.3729.6\chromedriver.exe
